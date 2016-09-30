@@ -65,12 +65,13 @@ public class MyCollections {
     public static List myGirlFriends (){
         List<String> myGirlFriends = new ArrayList<String>();
 
-        myGirlFriends.add("himself");
-        myGirlFriends.add(1, "his thing");
-        myGirlFriends.add(2, "Jennifer Lawrence");
-        myGirlFriends.add(3, "Liza Soberano");
-        myGirlFriends.add(4, "Selena Gomez");
-        myGirlFriends.add(5, "Wala bitaw");
+        myGirlFriends.add("Angel Locsin");
+        myGirlFriends.add(1, "himself");
+        myGirlFriends.add(2, "his thing");
+        myGirlFriends.add(3, "Jennifer Lawrence");
+        myGirlFriends.add(4, "Liza Soberano");
+        myGirlFriends.add(5, "Selena Gomez");
+        myGirlFriends.add(6, "Wala bitaw");
 
         return myGirlFriends;
 
